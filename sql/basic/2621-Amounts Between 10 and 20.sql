@@ -13,3 +13,4 @@ INNER JOIN
 WHERE 
     p.amount BETWEEN 10 AND 20
     AND pr.name LIKE 'P%';
+    
