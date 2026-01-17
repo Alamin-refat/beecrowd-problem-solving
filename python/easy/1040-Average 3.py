@@ -34,3 +34,4 @@ else:  # 5.0 <= average <= 6.9
         print("Aluno reprovado.")
     
     print(f"Media final: {final_average:.1f}")
+    
