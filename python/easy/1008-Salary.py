@@ -19,3 +19,4 @@ salary = hour * amount
 print(f"NUMBER = {num}")
 print(f"SALARY = U$ {salary:.2f}")
 
+
