@@ -38,3 +38,4 @@ else:  # invertebrado
             print("sanguessuga")
         else:  # onivoro
             print("minhoca")
+
