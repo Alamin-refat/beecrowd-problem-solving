@@ -5,4 +5,4 @@ OBS: You must not show repeated cities.*/
 
 SELECT DISTINCT city 
 FROM providers
-ORDER BY city; 
+ORDER BY city;
