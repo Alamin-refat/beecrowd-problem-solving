@@ -12,4 +12,3 @@ SELECT
 FROM natural_person;
 
 
-
