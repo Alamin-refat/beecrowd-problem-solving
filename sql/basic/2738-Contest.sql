@@ -11,5 +11,3 @@ SELECT
 FROM candidate c
 JOIN score s ON c.id = s.candidate_id
 ORDER BY avg DESC;
-
-
