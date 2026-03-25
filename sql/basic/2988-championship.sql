@@ -60,4 +60,3 @@ SELECT
   score
 FROM team_stats
 ORDER BY score DESC, name ASC;
-
