@@ -9,4 +9,3 @@ SELECT
     MD5(password) AS MD5
 FROM account
 ORDER BY id;
-
