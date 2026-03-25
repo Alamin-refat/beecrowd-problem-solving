@@ -9,5 +9,3 @@ SELECT
 FROM people
 WHERE salary > 3000
 ORDER BY id;
-
-
