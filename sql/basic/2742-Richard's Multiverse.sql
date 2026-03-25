@@ -12,4 +12,3 @@ JOIN dimensions d ON lr.dimensions_id = d.id
 WHERE lr.name LIKE 'Richard%' 
     AND d.name IN ('C875', 'C774')
 ORDER BY lr.omega;
-
