@@ -60,5 +60,3 @@ INNER JOIN empregado
 	ON salarios.matr = empregado.matr
 ORDER BY salarios.lotacao_div -- This is a workaround so it matches the output example (which is innacurate)
 ;
-
-
