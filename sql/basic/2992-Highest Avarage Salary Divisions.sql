@@ -64,4 +64,3 @@ INNER JOIN divisao
 WHERE media IN (SELECT MAX(media) OVER (PARTITION BY lotacao) FROM media_salarial_por_divisao)
 ORDER BY media DESC
 ;
-
