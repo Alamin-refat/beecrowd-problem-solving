@@ -53,4 +53,3 @@ SELECT
 	GROUP BY departamento.nome
 	ORDER BY "Media Salarial" DESC
 
-    
