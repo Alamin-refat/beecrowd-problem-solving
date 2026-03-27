@@ -20,3 +20,4 @@ FROM (
     FROM nodes
 ) n
 ORDER BY n.node_id;
+
