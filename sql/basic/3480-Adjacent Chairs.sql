@@ -13,4 +13,3 @@ FROM (
 WHERE available = TRUE 
   AND next_available = TRUE
 ORDER BY "left";
-
