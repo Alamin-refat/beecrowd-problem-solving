@@ -28,4 +28,3 @@ elif x < 0 and y < 0:
     print("Q3")
 else:  # x > 0 and y < 0
     print("Q4")
-    
