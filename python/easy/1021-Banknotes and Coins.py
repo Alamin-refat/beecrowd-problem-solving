@@ -25,4 +25,4 @@ print("MOEDAS:")
 for coin in coins:
     count = cents // coin
     print(f"{count} moeda(s) de R$ {coin/100:.2f}")
-    cents %= coin  
+    cents %= coin
