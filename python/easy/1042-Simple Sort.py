@@ -25,4 +25,3 @@ print()
 # Print original order (one per line)
 for num in original:
     print(num)
-
