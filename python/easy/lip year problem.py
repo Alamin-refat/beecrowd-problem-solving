@@ -7,3 +7,4 @@ elif year % 100 ==0 and year % 400 == 0:
     print(year,"year is lip year")
 else:
     print(year,"year is not lip year")
+    
