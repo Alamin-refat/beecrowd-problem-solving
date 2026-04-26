@@ -16,7 +16,6 @@ Above 2000.00
 7%
 4%
 
-
 Read the employee's salary, calculate and print the new employee's salary, as well the money earned and the increase percentual obtained by the employee, with corresponding messages in Portuguese, as the below example.
 Input
 The input contains only a floating-point number, with 2 digits after the decimal point.
