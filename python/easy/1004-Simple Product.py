@@ -7,7 +7,5 @@ Output
 Print the message "PROD" and PROD according to the following example, with a blank space before and after the equal'''
 A=int(input())
 B=int(input())
-
 PROD = A*B
-
 print(f"PROD = {PROD}")
