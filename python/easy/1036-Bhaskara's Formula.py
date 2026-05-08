@@ -24,4 +24,3 @@ else:
         R2 = (-B - sqrt_disc) / (2 * A)
         print(f"R1 = {R1:.5f}")
         print(f"R2 = {R2:.5f}")
-        
