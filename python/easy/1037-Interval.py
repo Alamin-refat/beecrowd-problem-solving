@@ -22,4 +22,3 @@ elif x <= 75:
     print("Intervalo (50,75]")
 else:  # 75 < x <= 100
     print("Intervalo (75,100]")
-    
