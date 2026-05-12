@@ -17,4 +17,3 @@ for note in banknotes:
     count =N // note
     print(f"{count} nota(s) de R$ {note},00")
     N=N % note
-    
