@@ -10,5 +10,4 @@ Print all even numbers between 1 and 100, including them, one by row.'''
 for num in range(2, 101, 2):
     print(num) 
 
-
     
