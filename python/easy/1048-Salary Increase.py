@@ -49,3 +49,4 @@ novo_salario = salario + reajuste
 print(f"Novo salario: {novo_salario:.2f}")
 print(f"Reajuste ganho: {reajuste:.2f}")
 print(f"Em percentual: {percentual} %")
+
