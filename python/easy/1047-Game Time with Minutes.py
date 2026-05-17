@@ -33,4 +33,3 @@ minutes = duration_minutes % 60
 
 # Print result
 print(f"O JOGO DUROU {hours} HORA(S) E {minutes} MINUTO(S)")
-
