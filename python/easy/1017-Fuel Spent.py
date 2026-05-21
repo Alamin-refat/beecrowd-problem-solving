@@ -11,7 +11,6 @@ speed = int(input())
 
 distance = tim*speed
 
-
 litters_nedded = distance / 12
 
 print(f"{litters_nedded:.3f}")
