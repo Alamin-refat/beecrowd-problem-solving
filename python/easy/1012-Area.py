@@ -40,4 +40,3 @@ print(f"CIRCULO: {circle_area:.3f}")
 print(f"TRAPEZIO: {trapezium_area:.3f}")
 print(f"QUADRADO: {square_area:.3f}")
 print(f"RETANGULO: {rectangle_area:.3f}")
-
